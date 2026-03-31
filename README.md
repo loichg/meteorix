@@ -111,5 +111,6 @@ python3 FlowNetPytorch/main.py /chemin/vers/dataset_syn -b8 -j8 -a flownets --da
 * `-j8` : Nombre de workers pour la parallélisation.
 * `--epochs 60` : Nombre d'itérations complètes sur le dataset.
 
-
+## Auteurs
+Projet réalisé par Loïc Huang, Anès Abdou, Cyprien Renaut, Alex Faucheux et Paul Poupeau dans le cadre du cursus MAIN4 à Polytech Sorbonne.
 
