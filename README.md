@@ -49,7 +49,7 @@ Ce projet implémente FlowNet pour le calcul et la visualisation du flot optique
 ### 🛠 I. Installation et Configuration
 
 #### 1. Clonage et Modèles
-**Code source :** Cloner le projet depuis [https://github.com/paul-pp/flownet](https://github.com/paul-pp/flownet) dans le répertoire `FlowNetPytorch`.
+**Code source :** Cloner le projet dans le répertoire `FlowNetPytorch`.
 **Modèles pré-entraînés :** Télécharger les fichiers `.pth` depuis [ce Google Drive](https://drive.google.com/drive/folders/16eo3p9dOvmssxRoZCmWkTpNjKRzJzn5) et les placer dans `trained_model`.
 
 #### 2. Préparation des données
